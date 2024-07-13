@@ -1,0 +1,32 @@
+footer {
+  align-items: center;
+  background-color: #202020;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+footer * {
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: var(--red)
+}
+
+img {
+  height: min-content;
+  width: 160px;
+}
+
+p {
+  font-size: 1em;
+  color: var(--red)
+}
+
+.logo {
+  display: block;
+  flex-wrap: wrap;
+  text-align: center;
+}

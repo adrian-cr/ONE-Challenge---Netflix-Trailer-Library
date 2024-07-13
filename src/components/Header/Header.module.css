@@ -1,0 +1,22 @@
+header {
+  background-color: #202020;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  text-align: center;
+}
+
+header * {
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: var(--red)
+}
+
+img {
+  height: min-content;
+  width: 160px;
+}

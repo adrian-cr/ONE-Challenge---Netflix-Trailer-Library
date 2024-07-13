@@ -1,6 +1,17 @@
+import Header from "./components/Header"
+import Main from "./components/Main"
+import Footer from "./components/Footer"
+
 function App() {
   return (
-    <h1>Henlo</h1>
+    <>
+      <Header img="../img/netflix-logo.png"/>
+      <Main>
+
+      </Main>
+      <Footer img="../img/netflix-logo.png"></Footer>
+    </>
+
   );
 }
 
