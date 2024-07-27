@@ -7,7 +7,6 @@ function App() {
     <>
       <Header img="../img/netflix-logo.png"/>
       <Main>
-
       </Main>
       <Footer img="../img/netflix-logo.png"></Footer>
     </>

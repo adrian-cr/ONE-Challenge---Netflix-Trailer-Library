@@ -10,22 +10,22 @@ footer * {
   margin: 0;
 }
 
-h2 {
+footer h2 {
   font-size: 1.2em;
   color: var(--red)
 }
 
-img {
+footer img {
   height: min-content;
   width: 160px;
 }
 
-p {
+footer p {
   font-size: 1em;
   color: var(--red)
 }
 
-.logo {
+footer .logo {
   display: block;
   flex-wrap: wrap;
   text-align: center;
