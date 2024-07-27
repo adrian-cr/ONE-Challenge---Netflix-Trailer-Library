@@ -1,10 +1,26 @@
+//Styles
 import styles from "./Main.module.css"
 
-const Main = () => {
+//Data
+import db from "../../data/dummy.json";
+
+//Components
+import Highlights from "./Highlights";
+import Library from "./Library";
+
+
+const videoData = db.dummyData;
+
+const Main = ({menu=false}) => {
   return (
+    <>
+    {/*menu && <Navigation/>*/}
     <main>
-      <h1>Main Build</h1>
+      <Highlights data={videoData}/>
+      <Library data={videoData}/>
     </main>
+    </>
+
   );
 }
 

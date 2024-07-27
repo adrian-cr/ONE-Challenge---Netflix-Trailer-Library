@@ -1,0 +1,78 @@
+.list-title {
+  font-size: 2em !important;
+  margin: 0.5em auto 1em auto;
+}
+
+.content-list {
+  display: flex;
+  gap: 1%;
+  margin-bottom: 3.5rem;
+  overflow-x: scroll;
+  padding-right: 10%;
+}
+
+.content-list::-webkit-scrollbar {
+  display: none;
+}
+
+.content-list .content-card {
+  display: block;
+  padding: 10px;
+  position: relative;
+}
+
+.content-list .content-card:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: 200ms;
+}
+
+.content-list .content-card .banner {
+  width: 15rem !important;
+  height: 8rem !important;
+}
+
+.content-list .content-title {
+  font-size: 1.3em;
+  margin: 0.3em auto 0 auto;
+}
+
+.content-list p {
+  margin: 0;
+}
+
+.content-list .category-tag {
+  font-size: 0.6em;
+}
+
+.content-list .season-tag {
+  font-size: 0.8em;
+}
+
+.content-list .release-date-tag {
+  font-size: 0.7em;
+}
+
+.content-list .content-description {
+  font-size: 0.9em;
+  text-align: justify;
+}
+
+.content-list .play-icon {
+  fill: var(--red);
+  opacity: 0;
+  height: 5em;
+  position: absolute;
+  right: 41%;
+  top: 14%;
+  width: 15%;
+}
+
+.content-list .content-card:hover .play-icon {
+  opacity: 0.6;
+  transition: 200ms;
+}
+
+.content-list .content-card:hover .play-icon:hover {
+  opacity: 1;
+  transition: 200ms;
+}
