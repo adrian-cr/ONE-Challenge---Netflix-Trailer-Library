@@ -6,7 +6,6 @@ import ContentList from "./ContentList"
 const Library = ({data}) => {
   return (
     <>
-
       <section className={styles.library}>
         <div className={styles.overlay}/>
         <ContentList listName="Categories" data={data}/>
@@ -14,7 +13,6 @@ const Library = ({data}) => {
         <ContentList listName="Latest Releases" data={data}/>
         <ContentList listName="Upcoming Releases" data={data}/>
       </section>
-
     </>
   )
 }
