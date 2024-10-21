@@ -1,5 +1,5 @@
 {
-  "dummyData": [
+  "data": [
     {
       "id": 1,
       "title": "Wednesday",
@@ -178,7 +178,7 @@
       "highlight": false,
       "highlightImageUrl": null,
       "format": "show",
-      "releaseDate": "MM/YYYY",
+      "releaseDate": "07/2024",
       "categories": ["animation", "comedy"]
     },
     {

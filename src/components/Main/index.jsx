@@ -9,7 +9,7 @@ import Highlights from "./Highlights";
 import Library from "./Library";
 
 
-const videoData = db.dummyData;
+const videoData = db.data;
 
 const Main = ({menu=false}) => {
   return (
