@@ -1,4 +1,5 @@
 header {
+  align-content: center;
   align-items: center;
   background-color: #202020;
   display: flex;
@@ -22,5 +23,6 @@ header h2 {
 
 header img {
   height: min-content;
+  margin: 10px auto;
   width: 160px;
 }
