@@ -24,7 +24,7 @@ const ContentList = ({listName, data}) => {
             <BsFillPlayCircleFill className={styles["play-icon"]}/>
             <h3 className={styles["content-title"]}>{i.title}</h3>
             <p className={styles["category-tag"]}>{i.categories.map(j => j == i.categories[i.categories.length - 1] ? capitalize(j) : `${capitalize(j)} • `)}</p>
-            <p className={styles["season-tag"]}>{i.season > 0 ? `Season ${i.season}` : <br/>}</p>
+            <p className={styles["season-tag"]}>{i.format === "show" ? `Season ${i.season}` : <br/>}</p>
             <p className={styles["release-date-tag"]}><em>Release Date: </em><strong>{dateTransform(i.releaseDate)}</strong></p>
 
           </a>
