@@ -7,6 +7,7 @@
       "imageUrl":"https://shorturl.at/4Szw5",
       "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
       "highlight":true,
+      "format": "show",
       "season":1,
       "releaseDate":"02/2024",
       "categories":["drama", "fantasy"]
@@ -18,6 +19,7 @@
       "imageUrl":"https://shorturl.at/fK4eY",
       "videoUrl":"https://www.youtube.com/watch?v=tkkNXt7tJY8",
       "highlight":true,
+      "format": "show",
       "season":2,
       "releaseDate":"02/2024",
       "categories":["romance"]
@@ -29,7 +31,8 @@
       "imageUrl":"https://shorturl.at/4Szw5",
       "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
       "highlight":true,
-      "season":0,
+      "format": "movie",
+      "season":null,
       "releaseDate":"02/2024",
       "categories":["drama", "fantasy"]
     },
@@ -40,6 +43,7 @@
       "imageUrl":"https://shorturl.at/4Szw5",
       "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
       "highlight":false,
+      "format": "show",
       "season":0,
       "releaseDate":"02/2024",
       "categories":["drama", "fantasy"]
@@ -51,6 +55,7 @@
       "imageUrl":"https://shorturl.at/4Szw5",
       "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
       "highlight":false,
+      "format": "show",
       "season":0,
       "releaseDate":"02/2024",
       "categories":["drama", "fantasy"]
