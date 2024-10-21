@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55577c53.css",
+    "main.js": "/static/js/main.aa216ed7.js",
+    "static/media/MyanmarKhyay.ttf": "/static/media/MyanmarKhyay.9457e865c03a94238142.ttf",
+    "index.html": "/index.html",
+    "main.55577c53.css.map": "/static/css/main.55577c53.css.map",
+    "main.aa216ed7.js.map": "/static/js/main.aa216ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55577c53.css",
+    "static/js/main.aa216ed7.js"
+  ]
+}
