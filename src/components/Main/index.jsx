@@ -2,7 +2,7 @@
 import styles from "./Main.module.css"
 
 //Data
-import db from "../../data/dummy.json";
+import db from "../../data/db.json";
 
 //Components
 import Highlights from "./Highlights";
