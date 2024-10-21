@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.55577c53.css",
-    "main.js": "/static/js/main.aa216ed7.js",
-    "static/media/MyanmarKhyay.ttf": "/static/media/MyanmarKhyay.9457e865c03a94238142.ttf",
-    "index.html": "/index.html",
-    "main.55577c53.css.map": "/static/css/main.55577c53.css.map",
-    "main.aa216ed7.js.map": "/static/js/main.aa216ed7.js.map"
+    "main.css": "/ONE-Challenge---Netflix-Trailer-Library/static/css/main.e350d81a.css",
+    "main.js": "/ONE-Challenge---Netflix-Trailer-Library/static/js/main.63d3e67d.js",
+    "static/media/MyanmarKhyay.ttf": "/ONE-Challenge---Netflix-Trailer-Library/static/media/MyanmarKhyay.9457e865c03a94238142.ttf",
+    "index.html": "/ONE-Challenge---Netflix-Trailer-Library/index.html",
+    "main.e350d81a.css.map": "/ONE-Challenge---Netflix-Trailer-Library/static/css/main.e350d81a.css.map",
+    "main.63d3e67d.js.map": "/ONE-Challenge---Netflix-Trailer-Library/static/js/main.63d3e67d.js.map"
   },
   "entrypoints": [
-    "static/css/main.55577c53.css",
-    "static/js/main.aa216ed7.js"
+    "static/css/main.e350d81a.css",
+    "static/js/main.63d3e67d.js"
   ]
 }
