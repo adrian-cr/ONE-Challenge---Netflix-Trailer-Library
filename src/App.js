@@ -5,9 +5,9 @@ import Footer from "./components/Footer"
 function App() {
   return (
     <>
-      <Header img="../img/netflix-logo.png"/>
+      <Header img="https://cdn.worldvectorlogo.com/logos/netflix-3.svg"/>
       <Main></Main>
-      <Footer img="../img/netflix-logo.png"></Footer>
+      <Footer img="https://cdn.worldvectorlogo.com/logos/netflix-3.svg"></Footer>
     </>
 
   );

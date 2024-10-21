@@ -6,7 +6,7 @@
 .highlights {
   background-color: white;
   display: flex;
-  height: 65vh;
+  height: 85vh;
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -43,7 +43,7 @@
   width: 80%;
 }
 
-.highlights .slide .season-tag {
+.highlights .slide .info-tag {
   font-size: 0.9em;
   margin: 0;
 }

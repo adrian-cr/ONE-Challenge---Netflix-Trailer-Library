@@ -1,0 +1,35 @@
+.menu-container {
+  display: flex;
+  margin: -20px auto 20px;
+  overflow-x: scroll;
+  padding-right: 10%;
+}
+
+.menu-container::-webkit-scrollbar {
+  display: none;
+}
+
+.category-label {
+  background-color: white;
+  border-radius: 3px;
+  color: black;
+  display: inline-flex;
+  font-size: 1.2em;
+  line-height: 0.9;
+  margin-right: 30px;
+  opacity: 0.4;
+  padding: 10px;
+  padding-top: 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-label:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 300ms;
+}
+
+.category-label-active, .category-label-active:hover {
+  opacity: 1;
+}
