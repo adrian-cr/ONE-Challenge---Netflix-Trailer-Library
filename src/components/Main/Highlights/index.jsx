@@ -27,7 +27,7 @@ const Highlights = ({data}) => {
           <h2>{i.title}</h2>
           <p className={styles["info-tag"]}>{i.season && `Season ${i.season} | `}{i.categories.map(j => j == i.categories[i.categories.length - 1] ? capitalize(j) : `${capitalize(j)} • `)}</p>
           <p className={styles.description}>{i.description}</p>
-          <a href={i.videoUrl}><BsFillPlayCircleFill/> Watch Trailer</a>
+          <a href={i.videoUrl} target="_blank"><BsFillPlayCircleFill/> Watch Trailer</a>
         </div>
       );
     })}
