@@ -3,7 +3,7 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -11,12 +11,12 @@ header * {
   margin: 0;
 }
 
-h2 {
+header h2 {
   font-size: 1.2em;
   color: var(--red)
 }
 
-img {
+header img {
   height: min-content;
   width: 160px;
 }

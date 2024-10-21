@@ -1,0 +1,59 @@
+{
+  "dummyData": [
+    {
+      "id":1,
+      "title":"Wednesday",
+      "description":"Smart, sarcastic and a little dead inside, Merlina Addams investigates a murder spree while making new friends (and enemies) at the Nevermore Academy.",
+      "imageUrl":"https://shorturl.at/4Szw5",
+      "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
+      "highlight":true,
+      "season":1,
+      "releaseDate":"02/2024",
+      "categories":["drama", "fantasy"]
+    },
+    {
+      "id":2,
+      "title":"Heartstopper",
+      "description":"In between, a trip to Paris, exams and the preparation for the end-of-year dance will be the scenarios in which the new life experiences of the characters will be framed.",
+      "imageUrl":"https://shorturl.at/fK4eY",
+      "videoUrl":"https://www.youtube.com/watch?v=tkkNXt7tJY8",
+      "highlight":true,
+      "season":2,
+      "releaseDate":"02/2024",
+      "categories":["romance"]
+    },
+    {
+      "id":3,
+      "title":"Wednesday",
+      "description":"Smart, sarcastic and a little dead inside, Merlina Addams investigates a murder spree while making new friends (and enemies) at the Nevermore Academy.",
+      "imageUrl":"https://shorturl.at/4Szw5",
+      "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
+      "highlight":true,
+      "season":0,
+      "releaseDate":"02/2024",
+      "categories":["drama", "fantasy"]
+    },
+    {
+      "id":4,
+      "title":"Wednesday",
+      "description":"Smart, sarcastic and a little dead inside, Merlina Addams investigates a murder spree while making new friends (and enemies) at the Nevermore Academy.",
+      "imageUrl":"https://shorturl.at/4Szw5",
+      "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
+      "highlight":false,
+      "season":0,
+      "releaseDate":"02/2024",
+      "categories":["drama", "fantasy"]
+    },
+    {
+      "id":5,
+      "title":"Wednesday",
+      "description":"Smart, sarcastic and a little dead inside, Merlina Addams investigates a murder spree while making new friends (and enemies) at the Nevermore Academy.",
+      "imageUrl":"https://shorturl.at/4Szw5",
+      "videoUrl":"https://www.youtube.com/watch?v=Di310WS8zLk",
+      "highlight":false,
+      "season":0,
+      "releaseDate":"02/2024",
+      "categories":["drama", "fantasy"]
+    }
+  ]
+}
