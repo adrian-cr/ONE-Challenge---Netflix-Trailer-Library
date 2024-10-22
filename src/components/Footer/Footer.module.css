@@ -30,3 +30,19 @@ footer .logo {
   flex-wrap: wrap;
   text-align: center;
 }
+
+@media screen and (max-width:720px) {
+  footer {
+    display: block;
+    text-align: center;
+  }
+
+  footer .logo {
+    margin-bottom: 10px;
+  }
+
+  footer p {
+    font-size: 0.8em;
+    color: var(--red)
+  }
+}
