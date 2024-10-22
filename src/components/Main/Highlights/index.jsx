@@ -24,7 +24,7 @@ const Highlights = ({data}) => {
         })}
         key={idx}
         style={{background: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url(${i.highlightImageUrl})`}}>
-          <h2>{i.title}</h2>
+          <h2 className={styles["slide-title"]}>{i.title}</h2>
           <p className={styles["info-tag"]}>{i.season && `Season ${i.season} | `}{i.categories.map(j => j == i.categories[i.categories.length - 1] ? capitalize(j) : `${capitalize(j)} • `)}</p>
           <p className={styles.description}>{i.description}</p>
           <a href={i.videoUrl} target="_blank"><BsFillPlayCircleFill/> Watch Trailer</a>

@@ -33,3 +33,9 @@
 .category-label-active, .category-label-active:hover {
   opacity: 1;
 }
+
+@media screen and (max-width:720px) {
+  .category-label {
+    font-size: 1em;
+  }
+}
